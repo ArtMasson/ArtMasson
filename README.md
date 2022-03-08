@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there 👋
+<img alt="GIF" src="https://i.pinimg.com/originals/b2/33/a5/b233a5ecc876839556a3914b077d8e14.gif" width= 500/>
 
-<!--
-**ArtMasson/ArtMasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
 
-Here are some ideas to get you started:
+<a target="_blank" href="https://www.linkedin.com/in/artmasson/">
+  <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-3d3d3d?style=social&logo=linkedin" />
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Support me:  
+
+<a target="_blank" href="https://www.buymeacoffee.com/artmasson">
+  <img align="left" alt="Github" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-3d3d3d?style=social&logo=buy-me-a-coffee" /><a/><br>
+  
+## Git Profile:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artMasson&show_icons=true&locale=en" alt="artMasson" /></p>
