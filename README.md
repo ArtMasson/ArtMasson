@@ -1,5 +1,4 @@
 # Hello there 👋
-<img alt="GIF" src="https://i.pinimg.com/originals/b2/33/a5/b233a5ecc876839556a3914b077d8e14.gif" width= 500/>
 
 ## Contact
 
